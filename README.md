@@ -1,5 +1,6 @@
 # SIG.AI repository
 Repository for us to Knowledge Manage all things related to AI(Signals).
+---
 
 # Commerical 
 ## DeepSig
@@ -19,5 +20,8 @@ A quick intro of DeepSig. [http://on-demand.gputechconf.com/gtcdc/2018/video/DC8
 12. [Over the Air Deep Learning Based Radio Signal Classification](papers/1712.04578.pdf)<br>
 
 ---
+# Potential courses
+https://www.coursera.org/learn/advanced-machine-learning-signal-processing
+
 # Other Sig.AI related stuff
 [Signal Metadata Format Specification v0.0.2](https://sigmf.org)<br>
