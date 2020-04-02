@@ -21,6 +21,7 @@ A quick intro of DeepSig. [http://on-demand.gputechconf.com/gtcdc/2018/video/DC8
 
 ---
 # Potential courses
+Advanced Machine Learning and Signal Processing<br>
 https://www.coursera.org/learn/advanced-machine-learning-signal-processing
 
 # Other Sig.AI related stuff
