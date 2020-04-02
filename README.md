@@ -4,6 +4,7 @@ A quick intro of DeepSig. [http://on-demand.gputechconf.com/gtcdc/2018/video/DC8
 
 ### Datasets
 [https://www.deepsig.io/datasets](https://www.deepsig.io/datasets)<br>
+[Explanation of RADIOML datasets](https://pubs.gnuradio.org/index.php/grcon/article/view/11/10)<br>
 
 ### Papers
 1. [Learning to Communicate: Channel Auto-encoders, Domain Specific Regularizers, and Attention](papers/1608.06409.pdf)<br>
