@@ -20,9 +20,12 @@ A quick intro of DeepSig. [http://on-demand.gputechconf.com/gtcdc/2018/video/DC8
 12. [Over the Air Deep Learning Based Radio Signal Classification](papers/1712.04578.pdf)<br>
 
 ---
-# Potential courses
+# Learnings
 Advanced Machine Learning and Signal Processing<br>
 https://www.coursera.org/learn/advanced-machine-learning-signal-processing
+
+About Quadrature Signals…<br>
+https://www.tek.com/blog/what%E2%80%99s-your-iq-%E2%80%93-about-quadrature-signals%E2%80%A6
 
 # Other Sig.AI related stuff
 [Signal Metadata Format Specification v0.0.2](https://sigmf.org)<br>
