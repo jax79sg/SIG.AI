@@ -1,7 +1,3 @@
-# SIG.AI repository
-Repository for us to Knowledge Manage all things related to AI(Signals).
----
-
 # Commerical 
 ## DeepSig
 A quick intro of DeepSig. [http://on-demand.gputechconf.com/gtcdc/2018/video/DC8154/](http://on-demand.gputechconf.com/gtcdc/2018/video/DC8154/)<br>
